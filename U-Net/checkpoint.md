@@ -1,4 +1,4 @@
-## Model Checkpoint
+# Model Checkpoint
 
 The checkpoint was too large to upload directly to GitHub.  
 You can download it here:  
